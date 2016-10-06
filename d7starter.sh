@@ -59,6 +59,7 @@ drush -y dl \
 admin_views \
 adminimal_theme \
 backup_migrate \
+block_class \
 ctools \
 ckeditor \
 ckeditor_link \
@@ -66,6 +67,7 @@ coder \
 date \
 devel \
 diff \
+draggableviews \
 entity \
 eu_cookie_compliance \
 features \
@@ -112,6 +114,7 @@ echo -e "////////////////////////////////////////////////////"
 drush -y en \
 admin_views \
 backup_migrate \
+block_class \
 ctools \
 ckeditor \
 ckeditor_link \
@@ -119,6 +122,7 @@ coder \
 date \
 devel \
 diff \
+draggableviews \
 entity \
 eu_cookie_compliance \
 features \
